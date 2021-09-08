@@ -6,3 +6,4 @@
 - ⚡ Fun fact: I'm a begginer at code
 
 ![Discord Banner](https://discord.c99.nl/widget/theme-1/576775849160867850.png)
+[![guti's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gustavo-daCosta)](https://github.com/anuraghazra/github-readme-stats)
