@@ -10,5 +10,5 @@
 </p>
 
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=gutineos&cover_image=false&theme=default&bar_color=4e6fb1", height=325>
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=gutineos&cover_image=false&theme=default&bar_color=4e6fb1">
 </p>
