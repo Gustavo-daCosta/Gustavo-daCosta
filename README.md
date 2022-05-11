@@ -1,6 +1,6 @@
 ## Hello, World! 👋
 
-- 🌱 I’m currently learning Flutter/Python and Dart
+- 🌱 I’m currently learning Flutter/Dart and Python
 - 📫 How to reach me: Contact me in email: gustavog.costa.997@gmail.com
 
 <br>
