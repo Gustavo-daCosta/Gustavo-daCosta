@@ -1,7 +1,7 @@
 ## Hello, World! 👋
 
-- 🌱 I’m currently learning Flutter/Dart and Python
-- 📫 How to reach me: Contact me in email: gustavog.costa.997@gmail.com
+- 🌱 Atualmente estou estudando Flutter e Dart
+- 🏫 Cursando Técnico em Desenvolvimento de Sistemas no SENAI de Informática "Paulo Skaf"
 
 <br>
 <p align="center">
@@ -10,7 +10,7 @@
 </p>
 <br>
 
-## Tecnologias de interesse
+## Tecnologias
 
 <div align="center">
     <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
