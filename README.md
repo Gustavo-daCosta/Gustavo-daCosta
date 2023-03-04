@@ -10,16 +10,19 @@
 </div>
 
 # 💻 Tecnologias
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat-square&logo=Trello&logoColor=white)
+![HTML5](https://img.shields.io/badge/html-100000?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/css3-100000?style=for-the-badge&logo=css3&logoColor=blue)
+![Dart](https://img.shields.io/badge/dart-100000?style=for-the-badge&logo=dart&logoColor=blue)
+![Flutter](https://img.shields.io/badge/Flutter-100000?style=for-the-badge&logo=flutter&logoColor=lightblue)
+![Python](https://img.shields.io/badge/python-100000?style=for-the-badge&logo=python&logoColor=blue)
+![SQLite](https://img.shields.io/badge/sqlite-100000?style=for-the-badge&logo=sqlite)
+![Arduino](https://img.shields.io/badge/-Arduino-100000?style=for-the-badge&logo=arduino)
+![Figma](https://img.shields.io/badge/figma-100000?style=for-the-badge&logo=figma)
+![Notion](https://img.shields.io/badge/Notion-100000?style=for-the-badge&logo=notion)
+![Trello](https://img.shields.io/badge/Trello-100000?style=for-the-badge&logo=trello)
+![Git](https://img.shields.io/badge/git-100000?style=for-the-badge&logo=git)
+![Git](https://img.shields.io/badge/github-100000?style=for-the-badge&logo=github)
+
 <!--![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)-->
 
 ---
