@@ -1,6 +1,6 @@
 ## Hello, World! 👋
 
-- 🏫 Cursando Técnico em Desenvolvimento de Sistemas no SENAI de Informática "Paulo Skaf"
+- 🏫 Cursando Técnico em Desenvolvimento de Sistemas no SENAI de Informática "Paulo Antônio Skaf"
 - 🤖 Ex-competidor e mentor de equipes de robótica
 
 <div align="center">
@@ -14,11 +14,13 @@
   <img align="right" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif">
   <div align="left">
     <div>
-      <img alt="HTML5" src="https://img.shields.io/badge/html-100000?style=for-the-badge&logo=html5">
-      <img alt="CSS3" src="https://img.shields.io/badge/css3-100000?style=for-the-badge&logo=css3&logoColor=blue">
       <img alt="CSharp" src="https://img.shields.io/badge/csharp-100000?style=for-the-badge&logo=csharp&logoColor=darkgreen">
       <img alt="Dotnet" src="https://img.shields.io/badge/dotnet-100000?style=for-the-badge&logo=dotnet&logoColor=darkgreen">
       <img alt="SQL Server" src="https://img.shields.io/badge/sqlserver-100000?style=for-the-badge&logo=microsoft-sql-server&logoColor=red">
+      <img alt="HTML5" src="https://img.shields.io/badge/html-100000?style=for-the-badge&logo=html5">
+      <img alt="CSS3" src="https://img.shields.io/badge/css3-100000?style=for-the-badge&logo=css3&logoColor=blue">
+      <img alt="Javascript" src="https://img.shields.io/badge/javascript-100000?style=for-the-badge&logo=javascript&logoColor=yellow">
+      <img alt="React" src="https://img.shields.io/badge/react-100000?style=for-the-badge&logo=react&logoColor=blue">
       <img alt="Dart" src="https://img.shields.io/badge/dart-100000?style=for-the-badge&logo=dart&logoColor=blue">
       <img alt="Flutter" src="https://img.shields.io/badge/Flutter-100000?style=for-the-badge&logo=flutter&logoColor=lightblue">
       <img alt="Python" src="https://img.shields.io/badge/python-100000?style=for-the-badge&logo=python&logoColor=blue">
