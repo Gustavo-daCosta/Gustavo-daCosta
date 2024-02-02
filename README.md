@@ -1,6 +1,6 @@
 ## Hello, World! 👋
 
-- 🏫 Cursando Técnico em Desenvolvimento de Sistemas no SENAI de Informática "Paulo Antônio Skaf"
+- 🏫 Cursando Engenharia da Computação no Inteli - Instituto de Tecnologia e Liderança
 - 🤖 Ex-competidor e mentor de equipes de robótica
 
 <div align="center">
