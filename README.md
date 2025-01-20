@@ -1,6 +1,9 @@
 ## Hello, World! 👋
 
-- 🏫 Cursando Engenharia da Computação no Inteli - Instituto de Tecnologia e Liderança
+- 🏫 Computer Engineering student at Inteli - Institute of Technology and Leadership
+- 🤖 Member of the eletronics team of ThundeRatz - Competitive Robotics team from POLI - USP
+- ⚕️ Member of MedIn - Biomedical Engineering league from Inteli
+- 🪙 Member of Inteli Blockchain - Blockchain league from Inteli
 
 <div align="center">
   <a href="https://github.com/gustavo-dacosta">
@@ -9,11 +12,12 @@
 </div>
   
 <div>
-  <h1>💻 Tecnologias</h1>
+  <h1>💻 Technologies</h1>
   <img align="right" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif">
   <div align="left">
     <div>
       <img alt="Python" src="https://img.shields.io/badge/python-100000?style=for-the-badge&logo=python&logoColor=blue">
+      <img alt="C++" src="https://img.shields.io/badge/c++-100000?style=for-the-badge&logo=cplusplus&logoColor=blue">
       <img alt="FastAPI" src="https://img.shields.io/badge/fastapi-100000?style=for-the-badge&logo=fastapi&logoColor=lightgreen">
       <img alt="CSharp" src="https://img.shields.io/badge/csharp-100000?style=for-the-badge&logo=csharp&logoColor=darkgreen">
       <img alt="Dotnet" src="https://img.shields.io/badge/.net-100000?style=for-the-badge&logo=dotnet&logoColor=darkgreen">
