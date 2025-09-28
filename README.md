@@ -42,6 +42,5 @@
     <hr height="1">
     <a href="www.linkedin.com/in/gustavo-dacosta"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a>
     <a href="https://stackoverflow.com/users/17818536"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
-    <a href="https://visitcount.itsvg.in"><img alt="Visitors Count" src="https://visitcount.itsvg.in/api?id=Gustavo-daCosta&icon=0&color=12"></a>
   </div>
 </div>
