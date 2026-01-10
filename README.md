@@ -4,12 +4,6 @@
 - 🤖 Member of the eletronics team of ThundeRatz - Competitive Robotics team from POLI - USP
 - ⚕️ Member of MedIn - Biomedical Engineering league from Inteli
 - 🪙 Member of Inteli Blockchain - Blockchain league from Inteli
-
-<div align="center">
-  <a href="https://github.com/gustavo-dacosta">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavo-dacosta&show_icons=true&include_all_commits=true&count_private=true&theme=transparent"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-dacosta&layout=compact&langs_count=6&theme=transparent"/>
-</div>
   
 <div>
   <h1>💻 Technologies</h1>
