@@ -1,7 +1,8 @@
 ## Hello, World! 👋
 
+- 💻 Software Engineering Intern at BCG X - Boston Consulting Group
 - 🏫 Computer Engineering student at Inteli - Institute of Technology and Leadership
-- 🤖 Member of the eletronics team of ThundeRatz - Competitive Robotics team from POLI - USP
+- 🤖 Project leader and member of the eletronics team of ThundeRatz - Competitive Robotics team from POLI - USP
 - ⚕️ Member of MedIn - Biomedical Engineering league from Inteli
 - 🪙 Member of Inteli Blockchain - Blockchain league from Inteli
   
